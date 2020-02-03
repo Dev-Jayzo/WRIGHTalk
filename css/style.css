@@ -11,6 +11,7 @@ body, html{
 .pimg1{
 	background-image:url('../imgs/view-of-high-rise-buildings-during-day-time-302769.jpg') ;
 	min-height:100% ;
+	width:100%;
 	background-size:contain;
 	background-repeat: no-repeat
 }
@@ -19,6 +20,7 @@ body, html{
 .pimg2{
 	background-image:url('../imgs/man-standing-infront-of-white-board-1181345.jpg') ;
 	min-height:400px ;
+	width:100%
 	background-size:contain;
 	background-repeat: no-repeat;
 }
@@ -27,6 +29,7 @@ body, html{
 .pimg3{
 	background-image:url('../imgs/person-writing-on-notebook-669615.jpg') ;
 	min-height:400px ;
+	width:100%
 	background-size:contain;
 	background-repeat: no-repeat;
 }
