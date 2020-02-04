@@ -50,6 +50,14 @@ body, html{
 	padding:20px ;
 }
 
+.ptext .border.trans{
+background-color:transparent;
+}
+/*disables parallax for mobile devices to keep website responsive*/
+@media(max-width:568px){
+	.pimg1, .pimg2, .pimg3{
+	background-attachment:scroll;
+}
 
 .pimg1{
 	background-image:url('../imgs/view-of-high-rise-buildings-during-day-time-302769.jpg') ;
