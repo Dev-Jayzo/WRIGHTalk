@@ -14,6 +14,8 @@ body, html{
 	background-position:center ;
 	background-size:cover ;
 	background-repeat:no-repeat ;
+	/*fixed=parallax scroll=normal*/
+	background-attachment:fixed ;
 }
 
 .pimg1{
