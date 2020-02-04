@@ -44,6 +44,12 @@ body, html{
 	text-transform:uppercase;
 }
 
+.ptext .border{
+	background-color:#111;
+	color:#fff;
+	padding:20px ;
+}
+
 
 .pimg1{
 	background-image:url('../imgs/view-of-high-rise-buildings-during-day-time-302769.jpg') ;
